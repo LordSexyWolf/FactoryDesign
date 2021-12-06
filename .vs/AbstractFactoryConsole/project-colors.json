@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2caf02ab-a410-4101-aaf4-45da6dde69d5": {
+      "ProjectGuid": "2caf02ab-a410-4101-aaf4-45da6dde69d5",
+      "DisplayName": "AbstractFactoryConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

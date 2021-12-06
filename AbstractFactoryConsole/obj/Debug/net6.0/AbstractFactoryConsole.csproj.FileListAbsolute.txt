@@ -1,0 +1,15 @@
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\AbstractFactoryConsole.exe
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\AbstractFactoryConsole.deps.json
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\AbstractFactoryConsole.runtimeconfig.json
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\AbstractFactoryConsole.dll
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\ref\AbstractFactoryConsole.dll
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\bin\Debug\net6.0\AbstractFactoryConsole.pdb
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.csproj.AssemblyReference.cache
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.AssemblyInfoInputs.cache
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.AssemblyInfo.cs
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.csproj.CoreCompileInputs.cache
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.dll
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\ref\AbstractFactoryConsole.dll
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.pdb
+C:\Users\a842225\source\repos\Pattern Design\AbstractFactoryConsole\AbstractFactoryConsole\obj\Debug\net6.0\AbstractFactoryConsole.genruntimeconfig.cache
